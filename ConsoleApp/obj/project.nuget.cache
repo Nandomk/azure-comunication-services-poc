@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "hi5dHtaTLk3eu3IyJQSnQdJZM5g42HMBVfmomLqGBUaSX86GOCde4N0iWmDsMr59AETIEGjDyK4qIf5C6fYMBg==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\azure-comunication-services-poc\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Domvs iT\\.nuget\\packages\\azure.communication.sms\\1.0.1\\azure.communication.sms.1.0.1.nupkg.sha512",
+    "C:\\Users\\Domvs iT\\.nuget\\packages\\azure.core\\1.14.0\\azure.core.1.14.0.nupkg.sha512",
+    "C:\\Users\\Domvs iT\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\Domvs iT\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Domvs iT\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\Domvs iT\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Domvs iT\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\Domvs iT\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Domvs iT\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\Domvs iT\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\Domvs iT\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
